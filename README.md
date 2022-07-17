@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chibueze
-- 👀 I’m interested in backend development, mobile and web
-- 🌱 I’m currently learning python-django
+- 👀 I’m a former DBA, now am backend developer
+- 🌱 I write java and python
 - 💞️ I’m looking to collaborate on any backend dev project
 - 📫 How to reach me via twitter @chibuezejibe
 
