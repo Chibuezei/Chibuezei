@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chibueze
-- 👀 I’m a former DBA, now am backend developer
+- 👀 I’m a DBA, backend developer
 - 🌱 I write java and python
 - 💞️ I’m looking to collaborate on any backend dev project
 - 📫 How to reach me via twitter @chibuezejibe
